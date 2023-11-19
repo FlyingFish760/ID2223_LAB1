@@ -45,3 +45,7 @@ This py file would generate a wine sample everyday and insert it to the feature 
 This py file would make predictions of the data in the current feature group evey day. Moreover, it created a monitor feature group, which will record the latest 2 preditions. 
 
 A confusion matrix will be made based on the daliy predictions and be uploaded to the dataset api on hopsworks.
+
+### Huggingface URL
+https://huggingface.co/spaces/Han760/ID2223_wine
+https://huggingface.co/spaces/Han760/ID2223_wine_monitor
