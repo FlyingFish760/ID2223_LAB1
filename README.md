@@ -1,7 +1,7 @@
 # ID2223_LAB1
 
 ## Authors
-Jingyuan Han & 
+Jingyuan Han & Kaidi Xu
 
 ## Some Dependencies
 python==3.8.5
