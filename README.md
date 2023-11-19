@@ -48,4 +48,5 @@ A confusion matrix will be made based on the daliy predictions and be uploaded t
 
 ### Huggingface URL
 https://huggingface.co/spaces/Han760/ID2223_wine
+
 https://huggingface.co/spaces/Han760/ID2223_wine_monitor
