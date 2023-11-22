@@ -46,7 +46,7 @@ def g():
     # wine = y_pred[-num::1]
     print("Wine predicted:", wine)
     dataset_api = project.get_dataset_api()
-    # dataset_api.upload(wine)
+    dataset_api.upload(wine)
 
     # Get the true label
     wine_fg = fs.get_feature_group(name="wine", version=1)
